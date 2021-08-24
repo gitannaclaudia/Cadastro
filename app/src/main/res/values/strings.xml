@@ -1,3 +1,43 @@
 <resources>
     <string name="app_name">Cadastro</string>
+    <string name="label_name">Nome Completo</string>
+    <string name="label_phone">Telefone</string>
+    <string name="label_mail">E-mail</string>
+    <string name="label_cb">Ingressar na lista de e-mails?</string>
+    <string name="label_genre">Sexo</string>
+    <string name="radio_male">Masculino</string>
+    <string name="radio_fame">Feminino</string>
+    <string name="label_city">Cidade</string>
+    <string name="label_state">UF</string>
+    <string-array name="states">
+        <item>Acre</item>
+        <item>Alagoas</item>
+        <item>Amapá</item>
+        <item>Amazonas</item>
+        <item>Bahia</item>
+        <item>Ceará</item>
+        <item>Distrito Federal</item>
+        <item>Espírito Santo</item>
+        <item>Goiás</item>
+        <item>Maranhão</item>
+        <item>Mato Grosso</item>
+        <item>Mato Grosso do Sul</item>
+        <item>Minas Gerais</item>
+        <item>Pará</item>
+        <item>Paraíba</item>
+        <item>Parana</item>
+        <item>Pernambuco</item>
+        <item>Piauí</item>
+        <item>Rio de Janeiro</item>
+        <item>Rio Grande do Norte</item>
+        <item>Rio Grande do Sul</item>
+        <item>Rondônia</item>
+        <item>Roraima</item>
+        <item>Santa Catarina</item>
+        <item>São Paulo</item>
+        <item>Sergipe</item>
+        <item>Tocantins</item>
+    </string-array>
+    <string name="bt_clean">Limpar</string>
+    <string name="bt_save">Salvar</string>
 </resources>
